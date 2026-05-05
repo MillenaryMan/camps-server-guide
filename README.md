@@ -3,7 +3,7 @@
 
 Steam Store Page: https://store.steampowered.com/app/2882560/CAMPS/
 
-![](https://github.com/MillenaryMan/CAMPS-Server/blob/main/GitBanner.png)
+![](https://github.com/MillenaryMan/CAMPS-Server/blob/main/banner.png)
 
 > [!IMPORTANT]
 > Before you start, ensure you have a Linux-based virtual or dedicated server.
